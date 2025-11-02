@@ -1,0 +1,11 @@
+Transaction_ID,Date,Customer_Name,Product,Total_Items,Total_Cost,Payment_Method,City,Store_Type,Discount_Applied,Customer_Category,Season,Promotion
+1000000000,"2022-01-21 06:27:29","Stacey Price","['Ketchup', 'Shaving Cream', 'Light Bulbs']",3,71.65,"Mobile Payment","Los Angeles","Warehouse Club",True,Homemaker,Winter,None
+1000000001,"2023-03-01 13:01:21","Michelle Carlson","['Ice Cream', 'Milk', 'Olive Oil', 'Bread', 'Potatoes']",2,25.93,Cash,"San Francisco","Specialty Store",True,Professional,Fall,"BOGO (Buy One Get One)"
+1000000002,"2024-03-21 15:37:04","Lisa Graves",['Spinach'],6,41.49,"Credit Card",Houston,"Department Store",True,Professional,Winter,None
+1000000003,"2020-10-31 09:59:47","Mrs. Patricia May","['Tissues', 'Mustard']",1,39.34,"Mobile Payment",Chicago,Pharmacy,True,Homemaker,Spring,None
+1000000004,"2020-12-10 00:59:59","Susan Mitchell","['Dish Soap']",10,16.42,"Debit Card",Houston,"Specialty Store",False,"Young Adult",Winter,"Discount on Selected Items"
+1000000005,"2021-10-07 12:37:26","Joshua Frazier","['Toothpaste', 'Chicken']",3,72.24,Cash,Houston,Supermarket,True,Retiree,Spring,"Discount on Selected Items"
+1000000006,"2023-01-08 10:40:03","Victoria Garrett","['Honey', 'BBQ Sauce', 'Soda', 'Olive Oil', 'Garden Hose']",4,5.28,Cash,Boston,"Specialty Store",False,Student,Summer,"Discount on Selected Items"
+1000000007,"2020-09-03 12:39:59","Sydney Waller","['Syrup', 'Trash Cans', 'Pancake Mix', 'Water', 'Mayonnaise']",5,21.77,"Debit Card",Chicago,"Specialty Store",False,"Young Adult",Winter,"Discount on Selected Items"
+1000000008,"2021-04-05 06:32:18","Kimberly Morgan","['Insect Repellent']",4,55.25,"Mobile Payment","Los Angeles","Warehouse Club",False,Homemaker,Fall,None
+1000000009,"2021-07-08 10:08:59","Lori Conway","['Soap', 'Baby Wipes', 'Soda']",7,31.21,"Mobile Payment",Boston,"Convenience Store",True,"Young Adult",Winter,None
