@@ -1,4 +1,13 @@
 # Data-Analytics-Projects
-Projects about data analysis including data cleaning, EDA, and Power BI visualizations
+My Projects about data analysis including:
+Data cleaning 
+Exploratory Data Analysis (EDA) 
+Power BI visualizations
 
+Tools Used:
+-MySQL WorkBench
+-Microsoft Power BI 
 
+Datasets Used 
+-From ALex The Analyst 
+-Retail Dataset From Kaggle 
